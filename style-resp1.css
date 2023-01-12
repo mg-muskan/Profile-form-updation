@@ -1,0 +1,30 @@
+.user-panel {
+    /* margin-top: 100px; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto Condensed';
+}
+.modal-ku {
+    width: 1050px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.sidenav {
+    width: 300px;
+}
+
+.info, .heading {
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.rest {
+    padding: 15px;
+}
